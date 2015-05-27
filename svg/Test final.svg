@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 524.40944 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="Test final.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4585"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4582"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4579"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4576"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4573"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4485">
+      <feGaussianBlur
+         stdDeviation="3.49 3.22"
+         result="blur"
+         id="feGaussianBlur4487" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4509">
+      <feGaussianBlur
+         stdDeviation="3.49 3.22"
+         result="blur"
+         id="feGaussianBlur4511" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4468">
+      <feGaussianBlur
+         stdDeviation="11.24 9.1"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4470" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4476" />
+      <feGaussianBlur
+         id="feGaussianBlur4479"
+         stdDeviation="5.36 5.09"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4464">
+      <feGaussianBlur
+         stdDeviation="11.24 9.1"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4466" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4472" />
+      <feGaussianBlur
+         id="feGaussianBlur4474"
+         stdDeviation="5.36 5.09"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4531-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4535-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4539-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4543-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4547-6"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="681.27797"
+     inkscape:cy="420.69098"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4743"
+       width="524.2132"
+       height="743.54889"
+       x="0.056019437"
+       y="308.30826"
+       rx="0"
+       ry="0"
+       inkscape:export-xdpi="365"
+       inkscape:export-ydpi="365" />
+    <path
+       style="opacity:0.3;fill:#759eb5;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0.35742188 0.16601562 L 0.35742188 149.02539 L 525 38.34375 L 525 0.16601562 L 0.35742188 0.16601562 z "
+       transform="translate(0,308.26772)"
+       id="rect4328"
+       inkscape:export-xdpi="365"
+       inkscape:export-ydpi="365" />
+    <text
+       transform="matrix(0.99090191,-0.13458606,0.13458606,0.99090191,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4408"
+       y="403.89713"
+       x="-19.855537"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.30755615px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="365.71429"
+       inkscape:export-ydpi="365.71429"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:#040602;fill-opacity:1"
+         y="403.89713"
+         x="-19.855537"
+         id="tspan4410"
+         sodipodi:role="line">Vocea Cerului</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4412"
+       y="361.8215"
+       x="29.017702"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.2378006px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="365.71429"
+       inkscape:export-ydpi="365.71429"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1"
+         y="361.8215"
+         x="29.017702"
+         id="tspan4414"
+         sodipodi:role="line">Candidat la</tspan></text>
+    <text
+       inkscape:export-ydpi="365.71429"
+       inkscape:export-xdpi="365.71429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.30755615px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       x="-18.977728"
+       y="404.01636"
+       id="text4416"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99090191,-0.13458606,0.13458606,0.99090191,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4418"
+         x="-18.977728"
+         y="404.01636"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:#040602;fill-opacity:1">Vocea Cerului</tspan></text>
+    <text
+       inkscape:export-ydpi="365.71429"
+       inkscape:export-xdpi="365.71429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.2378006px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       x="29.903887"
+       y="361.8215"
+       id="text4420"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4422"
+         x="29.903887"
+         y="361.8215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1">Candidat la</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.52981091px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.325237"
+       y="481.69547"
+       id="text4335"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="365"
+       inkscape:export-ydpi="365"><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="481.69547"
+         id="tspan4421"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Bifează răspunsul dorit!</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="498.60773"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5807">1. Cum apreciezi ideea organizării acestei tabere de muzică?</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="515.73193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5809">□ sunt încântat de aceasta</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="532.85608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5811">□ este bună</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="549.98029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5813">□ nu este ceva deosebit, nu sunt încântat</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="567.10443"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5859" /><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="584.01672"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5817">2. Cum apreciezi durata programelor muzică – prezentări?</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="601.14087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5819">□ a fost foarte bine, atât cu muzica cât și cu prezentarea Cuvântului</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="618.26508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5821">□ trebuia mai multă muzică</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="635.38922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5823">□ trebuiau mai multe predici</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="652.51343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5825">□ nu a fost o alegere bună durata niciunei părți</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="669.63757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5863" /><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="686.54987"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5829">3. Cum apreciezi organizarea întregii tabere de muzică?</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="703.67401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5831">□ foarte bună</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="720.79822"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5833">□ bună</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="737.92236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5835">□ se putea mai bine</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="755.04657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5837">□ proastă</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="772.17072"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5867" /><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="789.08301"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5839">4. A fost promovată / anunțată, din timp, pentru tine?</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="806.20721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5841">□ da, a fost foarte bine promovată, am fost anunțat din timp</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="823.33136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5843">□ a fost bine</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="840.45557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5845">□ nu am știut la timp, trebuie îmbunătățit modul de promovare</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="857.57971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5847">□ nu am știut decât în ultimul moment, nu sunt mulțumit</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="874.70392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5869" /><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="891.61615"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5849">5. Ce ar trebui îmbunătățit în primul rând?</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="908.74036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5851">□ prezentarea</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="925.8645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5853">□ diversitatea programului</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="942.98871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5855">□ durata programului</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="960.11285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5857">□ organizarea </tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="977.02515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5871">promovarea din timp</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="994.14929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5873">□ locul organizării</tspan><tspan
+         sodipodi:role="line"
+         x="30.325237"
+         y="1011.2735"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="tspan5875">□ altele: ____________________________________________________</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4435"
+       y="430.32681"
+       x="252.16751"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.75227356px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="365.71429"
+       inkscape:export-ydpi="365.71429"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1"
+         y="430.32681"
+         x="252.16751"
+         sodipodi:role="line"
+         id="tspan3791">Sondaj de opinie</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1"
+         y="457.327"
+         x="252.16751"
+         sodipodi:role="line"
+         id="tspan3795">Tabăra de muzică 9-12 aprilie 2015</tspan></text>
+    <g
+       inkscape:export-ydpi="365"
+       inkscape:export-xdpi="365"
+       transform="matrix(0.65337762,0,0,0.65337762,613.83503,229.8245)"
+       id="g3755">
+      <rect
+         ry="30.92094"
+         y="1096.3359"
+         x="-319.69638"
+         height="101.99615"
+         width="136.24907"
+         id="rect3757"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="30.92094" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759"
+         y="1142.3417"
+         x="-277.6702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.02105904px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#1f1b20;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#1f1b20;fill-opacity:1"
+           y="1142.3417"
+           x="-277.6702"
+           id="tspan3761"
+           sodipodi:role="line">d</tspan></text>
+      <path
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -245.45939,1119.0679 c -4.6848,1.2263 -9.31775,2.6966 -13.82579,4.5168 -0.15176,0.061 -0.30779,0.1367 -0.45924,0.199 l 0,2.9243 c 0.48656,-0.2026 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.657 8.45765,-3.0073 12.81526,-4.1493 l 0,-2.8937 z"
+         id="path3763"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3765"
+         d="m -226.52947,1105.7781 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.1859 -6.89411,5.3572 -1.95353,0.8862 -4.24016,1.4691 -4.28169,1.4803 -1.3177,0.3597 -2.63889,0.6634 -4.01287,1.0024 -5.44654,1.332 -10.83727,2.979 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1859 l 0,2.9309 c 0.48656,-0.2026 0.97382,-0.4031 1.46372,-0.5975 5.0893,-2.0228 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3153 2.72188,-0.6272 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.63 4.71662,-1.633 2.68198,-1.2164 5.16274,-3.0331 7.2293,-5.3406 l 0,-4.7266 z"
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -245.45939,1124.6689 c -4.6848,1.2262 -9.31775,2.6965 -13.82579,4.5167 -0.15176,0.061 -0.30779,0.1369 -0.45924,0.199 l 0,2.9244 c 0.48656,-0.2026 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.6569 8.45765,-3.0073 12.81526,-4.1493 l 0,-2.8937 z"
+         id="path3767"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -226.52947,1111.3636 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1276 -1.92062,2.3592 -4.3122,4.1861 -6.89411,5.3573 -1.95353,0.8862 -4.24016,1.469 -4.28169,1.4803 -1.3177,0.3597 -2.63889,0.6635 -4.01287,1.0025 -5.44654,1.332 -10.83727,2.9789 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1859 l 0,2.9307 c 0.48656,-0.2025 0.97382,-0.403 1.46372,-0.5974 5.0893,-2.0227 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6272 4.08926,-0.9924 -0.0101,0.01 2.50491,-0.6301 4.71662,-1.6331 2.68198,-1.2163 5.16274,-3.0331 7.2293,-5.3406 l 0,-4.7266 z"
+         id="path3769"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -245.45939,1130.2719 c -4.6848,1.2263 -9.31775,2.6966 -13.82579,4.5167 -0.15176,0.061 -0.30779,0.1369 -0.45924,0.199 l 0,2.9244 c 0.48656,-0.2027 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.6569 8.45765,-3.0073 12.81526,-4.1492 l 0,-2.8938 z"
+         id="path3771"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3773"
+         d="m -226.52947,1116.9491 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.186 -6.89411,5.3572 -1.95353,0.8862 -4.24016,1.469 -4.28169,1.4804 -1.3177,0.3596 -2.63889,0.6634 -4.01287,1.0023 -5.44654,1.332 -10.83727,2.979 -16.06172,5.0884 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1858 l 0,2.9308 c 0.48656,-0.2026 0.97382,-0.4029 1.46372,-0.5974 5.0893,-2.0227 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6272 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.63 4.71662,-1.6329 2.68198,-1.2164 5.16274,-3.0332 7.2293,-5.3407 l 0,-4.7266 z"
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -226.52947,1122.5345 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.1859 -6.89411,5.3571 -1.95353,0.8864 -4.24016,1.4691 -4.28169,1.4804 -1.3177,0.3597 -2.63889,0.6635 -4.01287,1.0025 -5.44654,1.332 -10.83727,2.9789 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1236 -0.45466,0.1859 l 0,2.9308 c 0.48656,-0.2026 0.97382,-0.4031 1.46372,-0.5975 5.0893,-2.0228 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6271 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.6299 4.71662,-1.6329 2.68198,-1.2165 5.16274,-3.0332 7.2293,-5.3407 l 0,-4.7265 z"
+         id="path3775"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#e64024;fill-opacity:1;stroke:none"
+         d="m -271.84288,1137.4372 0,-4.759 6.12166,2.3772 -6.12166,2.3818 z"
+         id="path3777"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.65917778px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#e64024;fill-opacity:1;stroke:none"
+         x="-312.16461"
+         y="1172.319"
+         id="text3779"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan3781"
+           x="-312.16461"
+           y="1172.319"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.25808525px;font-family:Meddon;-inkscape-font-specification:Meddon;fill:#e64024;fill-opacity:1">Muzică </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3783"
+         y="1183.4304"
+         x="-189.30803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76392031px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#1f1b20;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           y="1183.4304"
+           x="-189.30803"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22517109px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:end;text-anchor:end;fill:#1f1b20;fill-opacity:1"
+           id="tspan3785">al AZSMR</tspan></text>
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.64504004px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#1f1b20;fill-opacity:1;stroke:none"
+         x="-189.12685"
+         y="1154.0742"
+         id="text3787"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22517109px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:end;text-anchor:end;fill:#1f1b20;fill-opacity:1"
+           sodipodi:role="line"
+           x="-189.12685"
+           y="1154.0742">departamentul de</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="365"
+       inkscape:export-xdpi="365"
+       ry="0"
+       rx="0"
+       y="308.30826"
+       x="600.05603"
+       height="743.54889"
+       width="524.2132"
+       id="rect5877"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="365"
+       inkscape:export-xdpi="365"
+       id="path5879"
+       d="m 600.35742,308.43374 0,148.85937 L 1125,346.61147 l 0,-38.17773 -524.64258,0 z"
+       style="opacity:0.3;fill:#759eb5;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="365.71429"
+       inkscape:export-xdpi="365.71429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.30755615px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       x="574.68549"
+       y="484.64886"
+       id="text5881"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99090191,-0.13458606,0.13458606,0.99090191,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5883"
+         x="574.68549"
+         y="484.64886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:#040602;fill-opacity:1">Vocea Cerului</tspan></text>
+    <text
+       inkscape:export-ydpi="365.71429"
+       inkscape:export-xdpi="365.71429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.2378006px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       x="629.0177"
+       y="361.8215"
+       id="text5885"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5887"
+         x="629.0177"
+         y="361.8215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1">Candidat la</tspan></text>
+    <text
+       transform="matrix(0.99090191,-0.13458606,0.13458606,0.99090191,0,0)"
+       sodipodi:linespacing="125%"
+       id="text5889"
+       y="484.7681"
+       x="575.56329"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.30755615px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="365.71429"
+       inkscape:export-ydpi="365.71429"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:#040602;fill-opacity:1"
+         y="484.7681"
+         x="575.56329"
+         id="tspan5891"
+         sodipodi:role="line">Vocea Cerului</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5893"
+       y="361.8215"
+       x="629.90387"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.2378006px;line-height:125%;font-family:'Noticia Text';-inkscape-font-specification:Forum;letter-spacing:0px;word-spacing:0px;fill:#040602;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-xdpi="365.71429"
+       inkscape:export-ydpi="365.71429"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Forum;-inkscape-font-specification:Forum;fill:#040602;fill-opacity:1"
+         y="361.8215"
+         x="629.90387"
+         id="tspan5895"
+         sodipodi:role="line">Candidat la</tspan></text>
+    <text
+       inkscape:export-ydpi="365"
+       inkscape:export-xdpi="365"
+       sodipodi:linespacing="125%"
+       id="text5897"
+       y="481.69547"
+       x="630.32526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.52981091px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5961"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="481.69547"
+         x="630.32526"
+         sodipodi:role="line">6. Îți dorești o viitoare tabără de muzică? Vei mai participa?</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="498.81964"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6553">□ da</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="515.94385"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6555">□ nu</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="533.06799"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6557">□ nu știu</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="550.1922"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6595" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="567.10443"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6559"> 7. Ce crezi că a fost bine și ce crezi că a nu fost bine,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="584.01672"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6561">privind în ansamblu?</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="600.92896"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6611">(notează primul exemplu care îți vine în minte)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="617.84125"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6563" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="634.96539"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6617">□ Greșit: ___________________________________</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="652.0896"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6565" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="669.21375"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6567">□ Bine: ____________________________________</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="686.33795"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6569" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="703.25018"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6571">8. Cum apreciezi implicarea tinerilor și calitatea muzicii?</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="720.16248"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6605">(notați cu o notă de la 1-10)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="737.28662"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6573">□ Organizarea:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="754.41083"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6575">□ Coruri:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="771.53497"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6577">□ Grupuri muzicale:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="788.65918"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6579">□ Cântări instrumentale:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="805.78339"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6581">□ Poezii:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="822.90753"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6583">□ Altele:  ___</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="840.03174"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6585" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="857.15588"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6587" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="874.28009"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6589" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="891.40424"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6591" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         y="908.31653"
+         x="630.32526"
+         sodipodi:role="line"
+         id="tspan6593">Vă mulțumim!</tspan></text>
+    <g
+       id="g5969"
+       transform="matrix(1.437721,0,0,1.437721,1357.7207,-710.07931)"
+       inkscape:export-xdpi="365"
+       inkscape:export-ydpi="365">
+      <rect
+         rx="14.052135"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5971"
+         width="136.24907"
+         height="101.99615"
+         x="-319.69638"
+         y="1096.3359"
+         ry="14.052135" />
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.02105904px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#1f1b20;fill-opacity:1;stroke:none"
+         x="-277.6702"
+         y="1142.3417"
+         id="text5973"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5975"
+           x="-277.6702"
+           y="1142.3417"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#1f1b20;fill-opacity:1">d</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5977"
+         d="m -245.45939,1119.0679 c -4.6848,1.2263 -9.31775,2.6966 -13.82579,4.5168 -0.15176,0.061 -0.30779,0.1367 -0.45924,0.199 l 0,2.9243 c 0.48656,-0.2026 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.657 8.45765,-3.0073 12.81526,-4.1493 l 0,-2.8937 z"
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -226.52947,1105.7781 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.1859 -6.89411,5.3572 -1.95353,0.8862 -4.24016,1.4691 -4.28169,1.4803 -1.3177,0.3597 -2.63889,0.6634 -4.01287,1.0024 -5.44654,1.332 -10.83727,2.979 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1859 l 0,2.9309 c 0.48656,-0.2026 0.97382,-0.4031 1.46372,-0.5975 5.0893,-2.0228 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3153 2.72188,-0.6272 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.63 4.71662,-1.633 2.68198,-1.2164 5.16274,-3.0331 7.2293,-5.3406 l 0,-4.7266 z"
+         id="path5979"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5981"
+         d="m -245.45939,1124.6689 c -4.6848,1.2262 -9.31775,2.6965 -13.82579,4.5167 -0.15176,0.061 -0.30779,0.1369 -0.45924,0.199 l 0,2.9244 c 0.48656,-0.2026 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.6569 8.45765,-3.0073 12.81526,-4.1493 l 0,-2.8937 z"
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5983"
+         d="m -226.52947,1111.3636 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1276 -1.92062,2.3592 -4.3122,4.1861 -6.89411,5.3573 -1.95353,0.8862 -4.24016,1.469 -4.28169,1.4803 -1.3177,0.3597 -2.63889,0.6635 -4.01287,1.0025 -5.44654,1.332 -10.83727,2.9789 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1859 l 0,2.9307 c 0.48656,-0.2025 0.97382,-0.403 1.46372,-0.5974 5.0893,-2.0227 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6272 4.08926,-0.9924 -0.0101,0.01 2.50491,-0.6301 4.71662,-1.6331 2.68198,-1.2163 5.16274,-3.0331 7.2293,-5.3406 l 0,-4.7266 z"
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5985"
+         d="m -245.45939,1130.2719 c -4.6848,1.2263 -9.31775,2.6966 -13.82579,4.5167 -0.15176,0.061 -0.30779,0.1369 -0.45924,0.199 l 0,2.9244 c 0.48656,-0.2027 0.97987,-0.4026 1.46977,-0.5971 4.16882,-1.6569 8.45765,-3.0073 12.81526,-4.1492 l 0,-2.8938 z"
+         style="fill:#1f1b20;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m -226.52947,1116.9491 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.186 -6.89411,5.3572 -1.95353,0.8862 -4.24016,1.469 -4.28169,1.4804 -1.3177,0.3596 -2.63889,0.6634 -4.01287,1.0023 -5.44654,1.332 -10.83727,2.979 -16.06172,5.0884 -0.15176,0.061 -0.30329,0.1237 -0.45466,0.1858 l 0,2.9308 c 0.48656,-0.2026 0.97382,-0.4029 1.46372,-0.5974 5.0893,-2.0227 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6272 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.63 4.71662,-1.6329 2.68198,-1.2164 5.16274,-3.0332 7.2293,-5.3407 l 0,-4.7266 z"
+         id="path5987"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5989"
+         d="m -226.52947,1122.5345 c -0.43665,0.7121 -0.93469,1.4246 -1.50695,2.1277 -1.92062,2.3591 -4.3122,4.1859 -6.89411,5.3571 -1.95353,0.8864 -4.24016,1.4691 -4.28169,1.4804 -1.3177,0.3597 -2.63889,0.6635 -4.01287,1.0025 -5.44654,1.332 -10.83727,2.9789 -16.06172,5.0883 -0.15176,0.061 -0.30329,0.1236 -0.45466,0.1859 l 0,2.9308 c 0.48656,-0.2026 0.97382,-0.4031 1.46372,-0.5975 5.0893,-2.0228 10.36103,-3.5999 15.7131,-4.8825 1.32717,-0.3152 2.72188,-0.6271 4.08926,-0.9925 -0.0101,0.01 2.50491,-0.6299 4.71662,-1.6329 2.68198,-1.2165 5.16274,-3.0332 7.2293,-5.3407 l 0,-4.7265 z"
+         style="fill:#e64024;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:connector-curvature="0"
+         id="path5991"
+         d="m -271.84288,1137.4372 0,-4.759 6.12166,2.3772 -6.12166,2.3818 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#e64024;fill-opacity:1;stroke:none" />
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         sodipodi:linespacing="125%"
+         id="text5993"
+         y="1172.319"
+         x="-312.16461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.65917778px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#e64024;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.25808525px;font-family:Meddon;-inkscape-font-specification:Meddon;fill:#e64024;fill-opacity:1"
+           y="1172.319"
+           x="-312.16461"
+           id="tspan5995"
+           sodipodi:role="line">Muzică </tspan></text>
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76392031px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#1f1b20;fill-opacity:1;stroke:none"
+         x="-189.30803"
+         y="1183.4304"
+         id="text5997"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan5999"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22517109px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:end;text-anchor:end;fill:#1f1b20;fill-opacity:1"
+           sodipodi:role="line"
+           x="-189.30803"
+           y="1183.4304">al AZSMR</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6001"
+         y="1154.0742"
+         x="-189.12685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.64504004px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#1f1b20;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-filename="/home/ghitab/Desktop/Demis/logo nou3.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           y="1154.0742"
+           x="-189.12685"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22517109px;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:end;text-anchor:end;fill:#1f1b20;fill-opacity:1"
+           id="tspan6003">departamentul de</tspan></text>
+    </g>
+  </g>
+</svg>
